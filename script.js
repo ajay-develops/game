@@ -210,4 +210,4 @@ function countPoints() {
 //     console.log(e.clientX)
 // })
 setTimeout(pushObject, 3000);
-const despacito = setInterval(render, 1);
+const despacito = setInterval(render, 1000);
